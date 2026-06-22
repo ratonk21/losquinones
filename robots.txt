@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://losquinones.cl/sitemap.xml
+Sitemap: https://www.losquinones.cl/sitemap.xml
